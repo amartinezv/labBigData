@@ -10,3 +10,5 @@
 [Bitacora parte1](https://github.com/amartinezv/labBigData/blob/master/Hive%26Scoop.pdf)
 
 
+
+
